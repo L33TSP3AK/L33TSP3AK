@@ -87,13 +87,7 @@
 <a href="adityakanoi2001.wordpress.com"><img src="https://img.shields.io/badge/-adityakanoi.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 </p>
 
-### 🐍 &nbsp;That's How Commits move ...
 
-<div align="center">
-  <a href="https://github.com/L33TSP3AK/">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
 ## 🔥 Featured Projects
 
