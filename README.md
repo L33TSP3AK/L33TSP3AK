@@ -10,7 +10,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🌱 &nbsp;I'm on track for learning more about Web3, Microservice Based Architecture, Machine Learning.\
 ✍️ &nbsp;In my free time, I pursue Logo Designing and Blog Writing as hobbies/side hustles.\
-✉️ &nbsp;You can shoot join the [telegram channel](https://t.me/+ovwze5GELaY1NGU1)! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot join the [telegram channel](https://t.me/+ovwze5GELaY1NGU1)! I'll try to respond as soon as I can.
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
