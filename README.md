@@ -83,6 +83,8 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
+[![image-removebg-preview](https://github.com/user-attachments/assets/8bdf8ab1-2334-4120-b8b1-0530ce783995)](https://github.com/L33TSP3AK/L33TSP3AK/discussions)
+
 
 ## 🔥 Featured Projects
 
