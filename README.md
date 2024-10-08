@@ -54,7 +54,7 @@
 </p>
 
 
-<center>### 💰 &nbsp;Support My Work
+### 💰 &nbsp;Support My Work
 ### Donation Addresses:
 
 | Cryptocurrency | Address |
@@ -66,10 +66,10 @@
 | **Litecoin (LTC)** | `MPi4tRH9PDfbSqabS2i4RZyZieHZVer4Xt` |
 | **Tron (TRX)** | `THAvPAwSzNubqajqwHovBwvHBgAk5BfDWx` |
 
-Thank you for your support! Every contribution makes a difference! 🙌</center>
+Thank you for your support! Every contribution makes a difference! 🙌
 
 
-### <center>🤝🏻 &nbsp;Connect with Me</center>
+<center>### 🤝🏻 &nbsp;Connect with Me</center>
 
 [![image-removebg-preview](https://github.com/user-attachments/assets/8bdf8ab1-2334-4120-b8b1-0530ce783995)](https://github.com/L33TSP3AK/L33TSP3AK/discussions)
 
