@@ -3,7 +3,7 @@
 ## 👨🏻‍💻 About L33TSP3AK
 
 🚀 Freelance Entrepreneur & Tech Enthusiast\
-💡 Explorer of new technologies, creator of software solutions and quick hacks\
+💡 Explorer of new technologies, creator of software solutions\
 🌱 Currently diving deep into Web3, Microservice Architecture, and Machine Learning\
 🎨 Logo Designer and Blog Writer in my spare time
 
